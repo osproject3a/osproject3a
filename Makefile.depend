@@ -1,0 +1,20 @@
+# DO NOT DELETE
+
+nweb23.o: ../../lib/c/include/stdio.h ../../lib/c/include/sys/types.h
+nweb23.o: ../../lib/c/include/libarch/types.h
+nweb23.o: ../../lib/c/include/libarch/common.h ../../lib/c/include/stdarg.h
+nweb23.o: ../../lib/c/include/str.h ../../lib/c/include/mem.h
+nweb23.o: ../../lib/c/include/stdbool.h ../../lib/c/include/abi/bool.h
+nweb23.o: ../../lib/c/include/io/verify.h ../../lib/c/include/abi/klog.h
+nweb23.o: ../../lib/c/include/stdlib.h ../../lib/c/include/unistd.h
+nweb23.o: ../../lib/c/include/time.h ../../lib/c/include/sys/time.h
+nweb23.o: ../../lib/c/include/libarch/config.h ../../lib/c/include/malloc.h
+nweb23.o: ../../lib/c/include/stacktrace.h ../../lib/c/include/unistd.h
+nweb23.o: ../../lib/c/include/errno.h ../../lib/c/include/abi/errno.h
+nweb23.o: ../../lib/c/include/fcntl.h ../../lib/c/include/net/socket.h
+nweb23.o: ../../lib/c/include/net/socket_codes.h ../../lib/c/include/net/in.h
+nweb23.o: ../../lib/c/include/net/inet.h ../../lib/c/include/byteorder.h
+nweb23.o: ../../lib/c/include/stdint.h ../../lib/c/include/net/ip_protocols.h
+nweb23.o: ../../lib/c/include/net/in6.h ../../lib/c/include/net/in.h
+nweb23.o: ../../lib/c/include/net/inet.h ../../lib/c/include/str_error.h
+nweb23.o: ../../lib/c/include/assert.h
